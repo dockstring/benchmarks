@@ -20,11 +20,12 @@ The following python packages are required to run the benchmarks:
 - scikit-learn
 - jupyter (to run the notebook)
 - rdkit
+- tqdm
 
 The notebooks are linked here:
 - [Regression benchmark](/original/regression.ipynb)
 - Virtual Screening benchmark: unfortunately we are still awaiting permission to re-distribute the version of the ZINC dataset which we used to run this benchmark. Stay tuned or email us for more information!
-- [Optimization benchmark](TODO)
+- [Optimization benchmark](/original/de-novo-design.ipynb)
 
 ## New benchmarks?
 
