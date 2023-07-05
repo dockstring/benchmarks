@@ -6,8 +6,8 @@ This repository contains example code to help understand what the benchmarks
 entail, and to help you to test new methods on the benchmarks.
 
 If you are looking for the code to run the experiments in the original dockstring paper,
-that is located here:
-https://github.com/AustinT/dockstring-baselines.
+that is located in a different repository:
+https://github.com/dockstring/experiments-from-paper.
 
 ## Original benchmarks
 
